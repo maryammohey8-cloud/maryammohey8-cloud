@@ -74,3 +74,227 @@
 </p>
 
 </details>
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maryammohey8-cloud&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryammohey8-cloud&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammohey8-cloud&theme=radical&hide_border=true"/>
+</p>
+
+</details>
+
+<details open>
+<summary><h2>🚀 Current Focus</h2></summary>
+
+```text
+🎯 Building a strong foundation in Artificial Intelligence
+📊 Learning Data Analysis
+🧠 Exploring Computer Vision
+📱 Learning Flutter
+💻 Solving Programming Problems using C++
+```
+
+</details>
+
+<details open>
+<summary><h2>📚 Currently Learning</h2></summary>
+
+- Python for Data Analysis
+- Machine Learning Fundamentals
+- Computer Vision
+- Flutter Development
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+</details>
+
+<details open>
+<summary><h2>🎯 2026 Goals</h2></summary>
+
+- ✅ Improve my Python skills
+- ✅ Build AI Projects
+- ✅ Upload more GitHub repositories
+- ✅ Learn Flutter
+- ✅ Practice Problem Solving
+- ✅ Contribute to Open Source
+- ✅ Land my first internship
+
+</details>
+
+<details open>
+<summary><h2>💼 Featured Projects</h2></summary>
+
+> 🚧 Coming Soon...
+
+I'm currently working on projects in:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis
+- 👁️ Computer Vision
+- 📱 Flutter Apps
+
+Stay tuned 🚀
+
+</details>
+<details open>
+<summary><h2>🏆 GitHub Activity Graph</h2></summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammohey8-cloud&theme=react-dark&hide_border=true"/>
+</p>
+
+</details>
+
+<details open>
+<summary><h2>⚡ Fun Facts</h2></summary>
+
+- 💜 I enjoy solving programming problems.
+- 🤖 AI is my favorite field in Computer Science.
+- 📊 I love turning data into meaningful insights.
+- 🌱 Every day I try to learn something new.
+- ☕ Coffee + Coding = Perfect Combination.
+
+</details>
+
+<details open>
+<summary><h2>📈 Coding Journey</h2></summary>
+
+```text
+2024  ▓▓▓░░░░░░░ Started Programming
+2025  ▓▓▓▓▓▓░░░░ Learned C++ & Python
+2026  ▓▓▓▓▓▓▓▓░░ Data Analysis & AI
+Next  ▓▓▓▓▓▓▓▓▓▓ AI Engineer 🚀
+```
+
+</details>
+
+<details open>
+<summary><h2>💡 Favorite Quote</h2></summary>
+
+> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
+
+</details>
+
+<details open>
+<summary><h2>🤝 Connect With Me</h2></summary>
+
+<p align="center">
+
+<a href="https://github.com/maryammohey8-cloud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Replace # with your LinkedIn profile -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Replace # with your Email -->
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</details>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+<br><br>
+<sub>Made with ❤️ by Maryam</sub>
+</p>
+<details open>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=maryammohey8-cloud&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
+</p>
+
+</details>
+
+<details open>
+<summary><h2>🐍 Contribution Snake</h2></summary>
+
+<p align="center">
+
+> **To enable the snake animation, create a GitHub Action using `Platane/snk`.**
+
+<img src="https://raw.githubusercontent.com/maryammohey8-cloud/maryammohey8-cloud/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</p>
+
+</details>
+
+<details open>
+<summary><h2>📂 Featured Projects</h2></summary>
+
+<p align="center">
+
+<a href="https://github.com/maryammohey8-cloud">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammohey8-cloud&repo=YOUR-FIRST-REPOSITORY&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/maryammohey8-cloud">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammohey8-cloud&repo=YOUR-SECOND-REPOSITORY&theme=radical&hide_border=true"/>
+</a>
+
+</p>
+
+> **Replace `YOUR-FIRST-REPOSITORY` and `YOUR-SECOND-REPOSITORY` with your repository names.**
+
+</details>
+
+<details open>
+<summary><h2>🎓 Certifications</h2></summary>
+
+- 🟣 Microsoft (Coming Soon)
+- 🟢 Coursera (Coming Soon)
+- 🔵 Kaggle (Coming Soon)
+
+</details>
+
+<details open>
+<summary><h2>💜 A Little About Me</h2></summary>
+
+```yaml
+Name: Maryam
+
+Education:
+  - Computer Science Student
+
+Interests:
+  - Artificial Intelligence
+  - Data Analysis
+  - Computer Vision
+
+Languages:
+  - Python
+  - C++
+
+Currently Learning:
+  - Flutter
+  - Machine Learning
+  - Computer Vision
+
+Dream:
+  Become an AI Engineer 🚀
+```
+
+</details>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F85D7F&height=120&section=footer"/>
+
+</p>
